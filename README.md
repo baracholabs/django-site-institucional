@@ -1,6 +1,11 @@
 # Django3 - Site institucional com admin
 
+exemplo rodando em: https://glacial-hollows-79682.herokuapp.com
+
+
 ![screenshot](./staticfiles/screenshot.png)
+
+![screenshot admin](./staticfiles/screenshot-admin.png)
 template: https://uideck.com/templates/fusion-app-business-saas-product-landing-page-template/
 desenvolvido durante o treinamento: https://www.udemy.com/course/programacao-web-com-django-framework-do-basico-ao-avancado/learn/lecture/15591504
 
